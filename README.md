@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 It now incluses steps for Github
 
 it iclude step for github
+
+update-readme
